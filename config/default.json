@@ -1,0 +1,8 @@
+{
+    "Client": {
+      "Server": "http://192.168.1.11:3005",
+      "timer": 5000,
+      "dht22pin": 4,
+      "room": "main"
+    }
+  }
