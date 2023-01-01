@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "config": "^3.2.3",
+    "config": "^3.3.8",
     "superagent": "^5.1.0",
     "tasktimer": "^3.0.0"
   }
